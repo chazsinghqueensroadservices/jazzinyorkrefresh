@@ -3,6 +3,11 @@ h1 {
   font-size: 20pt;
   text-decoration: none;
 }
+h2 {
+  color: maroon;
+  font-size: 16pt;
+  text-decoration: none;
+}
 body {
-    font-size: 15pt;
+    font-size: 12pt;
 }
